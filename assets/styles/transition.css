@@ -1,0 +1,11 @@
+/*
+.page-enter-active,
+.page-leave-active {
+  transition: opacity .25s cubic-bezier(0, 0, .47, .92);
+}
+
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+*/
