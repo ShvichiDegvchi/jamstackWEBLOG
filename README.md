@@ -3,3 +3,7 @@
 - Nuxt.js
 - microCMS
 - Netlify
+
+
+## Hosting (Netlify)
+https://www.webcreatorsstruggle.com/
